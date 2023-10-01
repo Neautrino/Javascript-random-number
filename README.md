@@ -2,4 +2,5 @@
 make a random number generator in javascript
 
 
-SR No. | Name
+SR No.  |  Name
+1    |Subha Laha
